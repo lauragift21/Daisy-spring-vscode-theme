@@ -1,0 +1,22 @@
+{
+    "name": "dark",
+    "displayName": "Daisy-spring",
+    "description": "a dark mode vscode theme",
+    "version": "0.0.1",
+    "publisher": "lauragift21",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Daisy spring theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Daisy spring theme-color-theme.json"
+            }
+        ]
+    }
+}
