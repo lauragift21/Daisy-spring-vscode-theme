@@ -2,10 +2,12 @@
 	"name": "Daisy spring theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1e1e1e",
-		"editor.foreground": "#d4d4d4",
+		"editor.background": "#1E162D",
+		"editor.foreground": "#ffffff",		
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#1E162D",
+		"sideBar.foreground": "#F7F7FF",
 	},
 	"tokenColors": [
 		{
